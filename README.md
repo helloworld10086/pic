@@ -1,2 +1,2 @@
 # pic
-upload pic repository
+upload pic repository,only save pic
